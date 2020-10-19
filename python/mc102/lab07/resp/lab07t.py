@@ -3,7 +3,7 @@ obj1 = ["Q", "T", "L", "H", "O"]
 obj = input()
 cara = input()
 dimen = int(input())
- 
+j 
  
 if obj == obj1[1]: #se for tri^ngulo dimen = altura
 
